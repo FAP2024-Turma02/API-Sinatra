@@ -1,0 +1,6 @@
+[
+    { "name": "Product 1", "photo": "photo1.jpg", "price": 100.0, "is_promotion": true },
+    { "name": "Product 2", "photo": "photo2.jpg", "price": 200.0, "is_promotion": false },
+    { "name": "Product 3", "photo": "photo3.jpg", "price": 150.0, "is_promotion": true }
+  ]
+  
